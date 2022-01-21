@@ -1,0 +1,31 @@
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.deps.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.runtimeconfig.dev.json
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/ref/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/bin/Debug/net5.0/tictactoe.pdb
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.csproj.AssemblyReference.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfoInputs.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.AssemblyInfo.cs
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/ref/tictactoe.dll
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.pdb
+/Users/MManley/Desktop/cse210/tictactoe/obj/Debug/net5.0/tictactoe.genruntimeconfig.cache
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.exe
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.deps.json
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.json
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.runtimeconfig.dev.json
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.dll
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\ref\tictactoe.dll
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\bin\Debug\net5.0\tictactoe.pdb
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.AssemblyReference.cache
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfoInputs.cache
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.AssemblyInfo.cs
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.csproj.CoreCompileInputs.cache
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.dll
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\ref\tictactoe.dll
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.pdb
+D:\BYU-Idaho\2nd semester\CSE 210\tictactoe-solution\tictactoe\obj\Debug\net5.0\tictactoe.genruntimeconfig.cache

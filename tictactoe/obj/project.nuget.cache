@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+x/p9dYyOTX9E7ONz9DLjhG+iWaEbFWSZLhnkoyCDhSw2tCluf2ob4syjHlS5jownLeOCLXGj/E3SuGV21mSeA==",
+  "success": true,
+  "projectFilePath": "D:\\BYU-Idaho\\2nd semester\\CSE 210\\tictactoe-solution\\tictactoe\\tictactoe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meben\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meben\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meben\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meben\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
